@@ -1,0 +1,17 @@
+.logoname{
+    color: rgb(250, 63, 63);
+    font-weight: 800;
+    font-family: 'Times New Roman', Times, serif;
+
+    
+}
+
+.logoname:hover{
+    color:rgb(250, 63, 63);
+    font-weight: 800;
+}
+
+.kfclogo{
+    height:70px;
+    margin-right:10px;
+}

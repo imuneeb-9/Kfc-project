@@ -1,0 +1,130 @@
+.offcanvas{
+background-color: rgb(251, 98, 98);
+
+}
+
+.ofcanvimg{
+    height: 100px;
+    width: 100px;
+    margin-left: 15px;
+    float: left;
+    
+}
+
+.ofcavtitle{
+    font-weight: bolder;
+   margin-left:15px;
+    color: white;
+    font-size: 17px;
+}
+
+.offcanvas-title{
+  color: white;
+  font-weight: bolder;
+  margin-left: 22px;
+  font-size: 28px;
+}
+
+
+
+.mainbodycan-v{
+    height: 130px;
+    width: 100%;
+    background-color: rgb(53, 53, 53);
+    border-radius: 10px;
+    padding-top:15px;
+}
+
+.title-border{
+    width: 50%;
+    height:50px;
+    background-color: rgb(71, 68, 68);
+    margin: auto;
+    border-radius:8px;
+}
+
+.btninc{
+    border-radius:20px;
+    margin-left:20px;
+    width: 30px;
+    background-color: rgb(255, 119, 119);
+    color: white;
+    font-weight: bolder;
+    border-color:white;
+}
+
+.btndec{
+    border-radius:20px;
+    margin-left: 10px;
+    width: 30px;
+    background-color: rgb(255, 119, 119);
+    color: white;
+    font-weight: bolder;
+    border-color:white; 
+}
+
+.btnpos{
+    margin-top: 9px;
+}
+
+.val{
+    color: white;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.emptycart{
+    height:300px;
+    margin-top:40px;
+    margin-left: 30px;
+}
+
+.emptycarttext{
+    color: white;
+    margin-top: 60px;
+    font-weight: bolder;
+    font-size:30px;
+    margin-left:60px;
+}
+
+.pricectg{
+  margin-left:152px;
+  color: white;
+  margin-top:8px;
+  background-color: rgb(245, 98, 98);
+  width:62px;
+  height:23px;
+  font-weight: bold;
+  text-align: center;
+  border-radius:3px;
+}
+
+
+.removeitem{
+    margin-left:40px;
+    margin-top:px;
+    width: 30px;
+    background-color: rgb(248, 109, 109);
+    color: white;
+    font-weight: bolder;
+    border-radius:5px;
+    
+}
+
+.totalprice{
+    height: 50px;
+    width: 250px;
+    background-color: rgb(51, 49, 49);
+    color: white;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    font-weight: bolder;
+    margin-top: 40px;
+    align-items: center;
+    border-radius:7px;
+   font-size:25px;
+
+}
+
+

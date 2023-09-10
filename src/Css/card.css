@@ -1,0 +1,37 @@
+body{
+    background: black;
+}
+
+.cardbody{
+    background: rgba(49, 49, 49, 0.993);
+    color: white;
+    font-family: 'Lato', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-weight: 400 ;
+
+
+}
+
+
+.btn{
+    height:40px ;
+    width:130px ;
+    margin-left:70px;
+    font-weight: bolder;
+    
+    
+}
+
+.cardmargin{
+    margin-top: 100px;
+    margin-left:60px;
+    
+}
+.pricetag{
+    font-weight:bolder;
+    margin-left:20px;
+}
+
+.pricespan{
+    margin-left:20px ;
+}

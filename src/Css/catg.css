@@ -1,0 +1,28 @@
+.catgbutton{
+   background-color: rgb(255, 112, 112);
+   color: white;
+   margin-top: 35px; 
+   margin-left: 10px;
+   font-weight:bold ;
+   height: 40px;
+   border-radius:8px;
+   float: left;
+   
+}
+
+.catgbutton:hover{
+    background-color: rgb(60, 59, 59);
+    color: white;
+    
+}
+
+.mainbutton{
+    margin-left: 125px;
+    
+    
+}
+
+.onclick{
+    background-color: rgb(60, 59, 59);
+    color: white;
+}
